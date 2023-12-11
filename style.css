@@ -60,6 +60,7 @@ body * {
   width: 64px;
 
   margin: 4px auto;
+  border: solid blue 2px;
 }
 #switch button {
   width: 32px;
